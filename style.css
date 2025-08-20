@@ -507,7 +507,7 @@ h3.my-proffession
     font-size: 18px;
     margin-bottom: 15px;
     text-transform: capitalize;
-    color: black;
+    color: rgb(46, 9, 255);
 }
 .about .about-content .timeline .timeline-text
 {
